@@ -1,5 +1,4 @@
-![icegif-174](https://raw.githubusercontent.com/dmcyberkiller/dmcyberkiller/main/icegif-174.gif)
-
+  ![dmhacker](https://github.com/dmcyberkiller/dmcyberkiller/assets/164518476/b7e85390-7492-46ee-91c2-aeb070bcbae2)
 
 - 👋 Hi, I’m @dmcyberkiller
 - 👀 I’m interested in cybersecurity
