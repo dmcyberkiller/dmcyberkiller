@@ -1,4 +1,6 @@
-![https://github.com/dmcyberkiller/dmcyberkiller/blob/main/icegif-174.gif]
+![icegif-174](https://github.com/dmcyberkiller/dmcyberkiller/assets/164518476/7775fce4-ab62-451b-9248-3bbfdb5a3714)
+
+
 - 👋 Hi, I’m @dmcyberkiller
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning EH, NPT
