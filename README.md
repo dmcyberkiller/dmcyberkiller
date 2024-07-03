@@ -1,6 +1,6 @@
   ![dmhacker]()
 
- <img src="![dmhacker](https://github.com/dmcyberkiller/dmcyberkiller/assets/164518476/b7e85390-7492-46ee-91c2-aeb070bcbae2)" width="650" height="350" alt="Example GIF">
+ <img src="(https://github.com/dmcyberkiller/dmcyberkiller/assets/164518476/b7e85390-7492-46ee-91c2-aeb070bcbae2)" width="650" height="350" alt="Example GIF">
 
   
 - ## 👋 Hi, I’m @dmcyberkiller ✅
